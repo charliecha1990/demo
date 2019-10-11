@@ -9,6 +9,8 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+     "name": "charlie",
+     "domainId": "2541d9ec-080c-4606-b265-db249297acb3",
+     "typeId": "c0e00000-0000-0000-0000-000000000263"
   }
 }
